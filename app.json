@@ -5,10 +5,12 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
+
     "splash": {
       "resizeMode": "contain",
       "backgroundColor": "#0B0B0D"
     },
+
     "android": {
       "package": "com.notes.app",
       "versionCode": 1,
@@ -16,8 +18,15 @@
         "backgroundColor": "#0B0B0D"
       }
     },
+
     "web": {
       "bundler": "metro"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "c7dc7b0e-c86f-4743-b380-31d4485cf220"
+      }
     }
   }
 }
