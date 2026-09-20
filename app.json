@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ملاحظات",
+    "slug": "notes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0B0D"
+    },
+    "android": {
+      "package": "com.notes.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0B0D"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
