@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ملاحظات",
-    "slug": "notes",
+    "slug": "notesnotes", 
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
